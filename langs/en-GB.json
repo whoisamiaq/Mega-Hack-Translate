@@ -146,7 +146,7 @@
   "LEVEL/HACK_0_PRACTICE_COMPLETE": "0 Practice Complete",
   "LEVEL/HACK_0_PRACTICE_COMPLETE/TIP": "Completes a level if you beat it in 1 practice attempt",
   "LEVEL/HACK_ALL_MODES_PLATFORMER": "All Modes Platformer",
-  "LEVEL/HACK_ALL_MODES_PLATFORMER/TIP": "Enabled all modes in platformer levels",
+  "LEVEL/HACK_ALL_MODES_PLATFORMER/TIP": "Enables all modes in platformer levels",
   "LEVEL/HACK_AUTO_SONG_DOWNLOAD": "Auto Song Download",
   "LEVEL/HACK_AUTO_SONG_DOWNLOAD/TIP": "Automatically starts downloading songs when you open the level page",
   "LEVEL/HACK_CHECKPOINT_LIMIT_BYPASS": "Checkpoint Limit Bypass",
