@@ -72,7 +72,7 @@
   "COSMETIC/HACK_STOP_TRIGGERS_ON_DEATH": "Trigger beim Tod stoppen",
   "COSMETIC/HACK_STOP_TRIGGERS_ON_DEATH/TIP": "Stoppt die Bewegungs- und Dreheffekte beim Tod, damit du sehen kannst, woran du gestorben bist",
   "COSMETIC/HACK_TRAIL_CUTTING": "Abgeschnittener Verlauf",
-  "COSMETIC/HACK_TRAIL_CUTTING/TIP": "Stellt den Bug wieder her, bei dem die Verlauf abgeschnitten wird.",
+  "COSMETIC/HACK_TRAIL_CUTTING/TIP": "Stellt den Bug wieder her, bei dem der Verlauf abgeschnitten wird.",
   "COSMETIC/HACK_WAVE_TRAIL_FIX": "Wave Verlauf Fix",
   "COSMETIC/HACK_WAVE_TRAIL_FIX/TIP": "Repariert das Knicken des Wave Verlaufs",
   "COSMETIC/HACK_WAVE_TRAIL_ON_DEATH": "Wave Verlauf beim Tod",
