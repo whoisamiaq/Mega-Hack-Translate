@@ -16,6 +16,8 @@ Regional dialects of languages are allowed too, such as en-US alongside en-GB.
 
 Please remember that proper nouns, such as "Mega Hack" and "Geometry Dash", should not be translated.
 
+Translations should not always be literal and instead should match common terms used by the community already. For example, do not translate "wave" if "wave" is the commonly spoken term in your language.
+
 Any tags ending in `/PRE` or `/SUF` are prefixes or suffixes to input boxes respectively.
 
 Tags ending in `/TIP` are tooltips for UI elements.
