@@ -76,7 +76,7 @@
   "COSMETIC/HACK_WAVE_TRAIL_FIX": "Фикс трейла вейва",
   "COSMETIC/HACK_WAVE_TRAIL_FIX/TIP": "Исправляет ломанный трейл на вейве",
   "COSMETIC/HACK_WAVE_TRAIL_ON_DEATH": "Трейл вейва после смерти",
-  "COSMETIC/HACK_WAVE_TRAIL_ON_DEATH/TIP": "Оставляет трейл волны видимым после смерти",
+  "COSMETIC/HACK_WAVE_TRAIL_ON_DEATH/TIP": "Оставляет трейл вейва видимым после смерти",
   "COSMETIC/WAVE_PULSE_SIZE/DROPDOWN/SIZE": "Множитель пульсации вейва:",
   "COSMETIC/WAVE_PULSE_SIZE/DROPDOWN/SIZE/SUF": "x",
   "COSMETIC/WAVE_PULSE_SIZE/HACK_WAVE_PULSE_SIZE": "Размер пульсации вейва",
