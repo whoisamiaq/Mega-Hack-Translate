@@ -231,7 +231,7 @@
   "LEVEL/SHOW_HITBOXES_TRAIL/DROPDOWN/MAX_DRAW/SUF": " Các khung hình",
   "LEVEL/SHOW_HITBOXES_TRAIL/DROPDOWN/UNCAPPED_EDITOR_LENGTH": "Không giới hạn độ dài editor",
   "LEVEL/SHOW_HITBOXES_TRAIL/HACK_SHOW_HITBOXES_TRAIL": "Hiện Trail Hitbox",
-  "LEVEL/SHOW_HITBOXES_TRAIL/HACK_SHOW_HITBOXES_TRAIL/TIP": "Hiển thị trail hitbox của người chơi trong các attempt, yêu cầu Hiển thị Hitbox",
+  "LEVEL/SHOW_HITBOXES_TRAIL/HACK_SHOW_HITBOXES_TRAIL/TIP": "Hiển thị trail hitbox của người chơi trong các attempt, yêu cầu Hiện Hitbox",
   "LEVEL/SMART_STARTPOS/DROPDOWN/LEGACY_CALCULATION": "Tính toán kiểu cũ",
   "LEVEL/SMART_STARTPOS/HACK_SMART_STARTPOS": "Startpos Thông minh",
   "LEVEL/SMART_STARTPOS/HACK_SMART_STARTPOS/TIP": "Tự động thiết lập gamemode, tốc độ, cỡ & viền cho một StartPos",
