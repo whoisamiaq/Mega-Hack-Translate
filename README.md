@@ -22,9 +22,9 @@ Titles for hacks and options should be kept as short as possible so that they fi
 
 Any tags ending in `/PRE` or `/SUF` are prefixes or suffixes to input boxes respectively. Prefixes should include spaces after their colons, for where user input begins. Parent tags do not need this space as this is the placeholder text, shown when the input box is empty.
 
-```json
+```
 {
-  "EXMAPLE_INPUT": "Time (s):",
+  "EXAMPLE_INPUT": "Time (s):",
   "EXAMPLE_INPUT/PRE": "Time: ",
   "EXAMPLE_INPUT/SUF": "s"
 }
