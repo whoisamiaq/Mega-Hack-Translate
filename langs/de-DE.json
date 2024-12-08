@@ -203,7 +203,7 @@
   "LEVEL/NOCLIP_LIMITS/DROPDOWN/DEATHS_LIMIT": "Todeslimit:",
   "LEVEL/NOCLIP_LIMITS/DROPDOWN/DEATHS_LIMIT/SUF": " Tode",
   "LEVEL/NOCLIP_LIMITS/DROPDOWN/DEATH_LIMIT_ON": "Todeslimit eingeschaltet",
-  "LEVEL/NOCLIP_LIMITS/HACK_NOCLIP_LIMITS": "Noclip-Limitierung",
+  "LEVEL/NOCLIP_LIMITS/HACK_NOCLIP_LIMITS": "Noclip-Limit",
   "LEVEL/NOCLIP_LIMITS/HACK_NOCLIP_LIMITS/TIP": "Tötet den Spieler bei der Überschreitung bestimmter Genauigkeits-Grenzwerten; benötigt Noclip",
   "LEVEL/RANDOM_SEED/DROPDOWN/SEED": "Seed:",
   "LEVEL/RANDOM_SEED/DROPDOWN/SEED/PRE": "Seed: ",
