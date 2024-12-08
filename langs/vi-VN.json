@@ -158,7 +158,7 @@
   "LEVEL/HACK_CONFIRM_NORMAL": "Xác nhận normal mode",
   "LEVEL/HACK_CONFIRM_NORMAL/TIP": "Yêu cầu xác nhận trước khi thoát Practice Mode",
   "LEVEL/HACK_CONFIRM_PRACTICE": "Xác nhận Practice Mode",
-  "LEVEL/HACK_CONFIRM_PRACTICE/TIP": "Yêu cầu xác nhận trước khi vào pracitice mode",
+  "LEVEL/HACK_CONFIRM_PRACTICE/TIP": "Yêu cầu xác nhận trước khi vào practice mode",
   "LEVEL/HACK_CONFIRM_RESET": "Xác nhận restart",
   "LEVEL/HACK_CONFIRM_RESET/TIP": "Yêu cầu xác nhận trước khi chơi lại level từ đầu",
   "LEVEL/HACK_FORCE_PLATFORMER": "Force Platformer",
