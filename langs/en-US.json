@@ -328,5 +328,5 @@
   "SCREENSHOT/SCREENSHOT": "Screenshot",
   "SCREENSHOT/SCREENSHOT/TIP": "Takes a screenshot",
   "SCREENSHOT/COPY_TO_CLIPBOARD": "Copy to Clipboard",
-  "UTILITY/SCREENSHOT/COPY_TO_CLIPBOARD/TIP": "Copies the screenshot to the your clipboard"
+  "SCREENSHOT/COPY_TO_CLIPBOARD/TIP": ""
 }
