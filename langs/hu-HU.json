@@ -168,7 +168,7 @@
   "LEVEL/HACK_PRACTICE_BUG_FIX": "Practice Bug Fix",
   "LEVEL/HACK_PRACTICE_BUG_FIX/TIP": "Elmenti, es visszahozza a játékos sebességét, újraéledéskor",
   "LEVEL/HACK_PRACTICE_MUSIC": "Practice Zene",
-    "LEVEL/HACK_PRACTICE_MUSIC/TIP": "Feloldja a Practice zene szinkronizálási beállításait",
+  "LEVEL/HACK_PRACTICE_MUSIC/TIP": "Feloldja a Practice zene szinkronizálási beállításait",
   "LEVEL/HACK_REPLAY_LAST_CHECKPOINT": "Utolsó Checkpoint Újrajátszása",
   "LEVEL/HACK_REPLAY_LAST_CHECKPOINT/TIP": "A legutolsó Practice Mode checkpoint-ról való újraéledés",
   "LEVEL/HACK_SHOW_HITBOXES_ON_DEATH": "Hitboxok Halálkor",
