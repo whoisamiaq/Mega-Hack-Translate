@@ -300,7 +300,7 @@
   "DISPLAY/DELTA/HACK_REAL_TIME": "Real Time",
   "DISPLAY/DELTA/HACK_REAL_TIME/TIP": "Allows multiple passed per frame when using Lock Delta, mitigating slowdowns",
   "DISPLAY/HACK_BORDERLESS_CLASSIC": "Borderless Classic",
-  "DISPLAY/HACK_BORDERLESS_CLASSIC/TIP": "Classic implementation of borderless fullscreen (seperate to GD's own implementation)",
+  "DISPLAY/HACK_BORDERLESS_CLASSIC/TIP": "Classic implementation of borderless fullscreen (separate to GD's own implementation)",
   "DISPLAY/FULLSCREEN/HACK_FULLSCREEN": "Fullscreen",
   "DISPLAY/FULLSCREEN/HACK_FULLSCREEN/TIP": "Allows the game to fill your main display",
   "DISPLAY/FULLSCREEN/COMBO/0": "Exclusive",
@@ -328,5 +328,5 @@
   "SCREENSHOT/SCREENSHOT": "Screenshot",
   "SCREENSHOT/SCREENSHOT/TIP": "Takes a screenshot",
   "SCREENSHOT/COPY_TO_CLIPBOARD": "Copy to Clipboard",
-  "SCREENSHOT/COPY_TO_CLIPBOARD/TIP": ""
+  "SCREENSHOT/COPY_TO_CLIPBOARD/TIP": "Copies the screenshot to your clipboard"
 }
