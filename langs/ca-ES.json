@@ -85,8 +85,8 @@
   "CREATOR/HACK_ACCURATE_SAVE": "Desament Precís",
   "CREATOR/HACK_ACCURATE_SAVE/TIP": "Les posicions dels objectes es desen amb més precisió",
   "CREATOR/HACK_COPY_HACK": "Copiar Nivell",
-  "CREATOR/HACK_COPY_HACK/TIP": "Permet copiar qualsevol nivell"
-   "CREATOR/HACK_CUSTOM_OBJECT_BYPASS": "Saltarse límite d'objecte personalitzat",
+  "CREATOR/HACK_COPY_HACK/TIP": "Permet copiar qualsevol nivell",
+  "CREATOR/HACK_CUSTOM_OBJECT_BYPASS": "Saltarse límite d'objecte personalitzat",
   "CREATOR/HACK_CUSTOM_OBJECT_BYPASS/TIP": "Elimina el límit d'objectes per a objectes personalitzats i permet guardar més de 50",
   "CREATOR/HACK_DEFAULT_SONG_BYPASS": "Saltador de cançons predeterminades",
   "CREATOR/HACK_DEFAULT_SONG_BYPASS/TIP": "Permet utilitzar cançons predeterminades ocultes a l'editor",
@@ -148,7 +148,7 @@
   "LEVEL/HACK_ALL_MODES_PLATFORMER": "Tots els modes en plataformes",
   "LEVEL/HACK_ALL_MODES_PLATFORMER/TIP": "Habilita tots els modes en nivells de plataformes",
   "LEVEL/HACK_AUTO_SONG_DOWNLOAD": "Descarrega automàtica de cançons",
-  "LEVEL/HACK_AUTO_SONG_DOWNLOAD/TIP": "Comença automàticament a descarregar cançons quan obres la pàgina del nivell"
+  "LEVEL/HACK_AUTO_SONG_DOWNLOAD/TIP": "Comença automàticament a descarregar cançons quan obres la pàgina del nivell",
   "LEVEL/HACK_CHECKPOINT_LIMIT_BYPASS": "Desbloqueja Límits",
   "LEVEL/HACK_CHECKPOINT_LIMIT_BYPASS/TIP": "Desbloqueja el límit de 50 punts de control",
   "LEVEL/HACK_COLLECT_COINS_IN_PRACTICE": "Recollir Monedes en Pràctica",
@@ -204,7 +204,7 @@
   "LEVEL/NOCLIP_LIMITS/DROPDOWN/DEATHS_LIMIT/SUF": " Morts",
   "LEVEL/NOCLIP_LIMITS/DROPDOWN/DEATH_LIMIT_ON": "Límit Activat",
   "LEVEL/NOCLIP_LIMITS/HACK_NOCLIP_LIMITS": "Límits de Noclip",
-    "LEVEL/NOCLIP_LIMITS/HACK_NOCLIP_LIMITS/TIP": "Mata al jugador després de certs llindars d'exactitud, requereix Noclip",
+  "LEVEL/NOCLIP_LIMITS/HACK_NOCLIP_LIMITS/TIP": "Mata al jugador després de certs llindars d'exactitud, requereix Noclip",
   "LEVEL/RANDOM_SEED/DROPDOWN/SEED": "Semença:",
   "LEVEL/RANDOM_SEED/DROPDOWN/SEED/PRE": "Semença: ",
   "LEVEL/RANDOM_SEED/HACK_RANDOM_SEED": "Semença aleatòria",

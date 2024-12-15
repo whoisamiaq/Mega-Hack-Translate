@@ -298,7 +298,7 @@
   "DISPLAY/DELTA/HACK_LOCK_DELTA": "Bloquear Delta",
   "DISPLAY/DELTA/HACK_LOCK_DELTA/TIP": "Bloquea el tiempo entre frames (delta) mientras juegas, para mayor consistencia. Se usa mas que todo para grabar macros",
   "DISPLAY/DELTA/HACK_REAL_TIME": "Tiempo real",
-  "DISPLAY/DELTA/HACK_REAL_TIME/TIP": " ", 
+  "DISPLAY/DELTA/HACK_REAL_TIME/TIP": " ",
   "DISPLAY/HACK_BORDERLESS_CLASSIC": "Sin bordes Legacy",
   "DISPLAY/HACK_BORDERLESS_CLASSIC/TIP": "Implementacion del antiguo modo sin bordes",
   "DISPLAY/FULLSCREEN/HACK_FULLSCREEN": "Pantalla completa",
