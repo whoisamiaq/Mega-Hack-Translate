@@ -328,5 +328,5 @@
   "SCREENSHOT/SCREENSHOT": "Скриншот",
   "SCREENSHOT/SCREENSHOT/TIP": "Делает скриншот",
   "SCREENSHOT/COPY_TO_CLIPBOARD": "Сохранить в буфер обмена",
-  "UTILITY/SCREENSHOT/COPY_TO_CLIPBOARD/TIP": "Копирует скриншот в Ваш буфер обмена"
+  "SCREENSHOT/COPY_TO_CLIPBOARD/TIP": "Копирует скриншот в Ваш буфер обмена"
 }
