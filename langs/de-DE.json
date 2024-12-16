@@ -298,7 +298,7 @@
   "DISPLAY/DELTA/HACK_LOCK_DELTA": "Delta sperren",
   "DISPLAY/DELTA/HACK_LOCK_DELTA/TIP": "Sperrt die Framezeit (Delta) während des Spielens für Einheitlichkeit, hauptsächlich für Botting nützlich",
   "DISPLAY/DELTA/HACK_REAL_TIME": "Echtzeit",
-  "DISPLAY/DELTA/HACK_REAL_TIME/TIP": "(Please tell me what this does exactly when reviewing the pull request so I can translate it)",
+  "DISPLAY/DELTA/HACK_REAL_TIME/TIP": "Ermöglicht das Voranschreiten um mehrere Delta-gesperrte Frames in einem visuellen Frame, vermeidet ein Verlangsamen des Spiels bei Lag",
   "DISPLAY/HACK_BORDERLESS_CLASSIC": "Klassisch unbegrenzt",
   "DISPLAY/HACK_BORDERLESS_CLASSIC/TIP": "",
   "DISPLAY/FULLSCREEN/HACK_FULLSCREEN": "Vollbild",
