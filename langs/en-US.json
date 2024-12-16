@@ -298,7 +298,7 @@
   "DISPLAY/DELTA/HACK_LOCK_DELTA": "Lock Delta",
   "DISPLAY/DELTA/HACK_LOCK_DELTA/TIP": "Locks the frame time (delta) during gameplay for consistency, used mainly for botting",
   "DISPLAY/DELTA/HACK_REAL_TIME": "Real Time",
-  "DISPLAY/DELTA/HACK_REAL_TIME/TIP": "Allows multiple passed per frame when using Lock Delta, mitigating slowdowns",
+  "DISPLAY/DELTA/HACK_REAL_TIME/TIP": "Allows multiple passes per frame when using Lock Delta, mitigating slowdowns",
   "DISPLAY/HACK_BORDERLESS_CLASSIC": "Borderless Classic",
   "DISPLAY/HACK_BORDERLESS_CLASSIC/TIP": "Classic implementation of borderless fullscreen (separate to GD's own implementation)",
   "DISPLAY/FULLSCREEN/HACK_FULLSCREEN": "Fullscreen",

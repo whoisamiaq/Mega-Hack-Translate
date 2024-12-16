@@ -299,7 +299,7 @@
   "DISPLAY/DELTA/HACK_LOCK_DELTA/TIP": "Bloquea los cuadros (delta) en el gameplay para consistencia, usado principalmente para macros.",
   "DISPLAY/DELTA/HACK_REAL_TIME": "Tiempo Real",
   "DISPLAY/DELTA/HACK_REAL_TIME/TIP": "Permite múltiples pasos por cuadro al usar 'Bloquear Delta', reduciendo ralentizaciones.",
-  "DISPLAY/HACK_BORDERLESS_CLASSIC": "Pantalla Sin Bordes Clásica",
+  "DISPLAY/HACK_BORDERLESS_CLASSIC": "Sin Bordes (clásica)",
   "DISPLAY/HACK_BORDERLESS_CLASSIC/TIP": "Implementación clásica de la pantalla sin bordes (por separado de la actual en GD).",
   "DISPLAY/FULLSCREEN/HACK_FULLSCREEN": "Pantalla Completa",
   "DISPLAY/FULLSCREEN/HACK_FULLSCREEN/TIP": "Permite que el juego ocupe toda tu pantalla principal.",
