@@ -168,7 +168,7 @@
   "LEVEL/HACK_PRACTICE_BUG_FIX": "Practice Bug Fix",
   "LEVEL/HACK_PRACTICE_BUG_FIX/TIP": "Saves & restores player velocity in practice mode",
   "LEVEL/HACK_PRACTICE_MUSIC": "Practice Music",
-  "LEVEL/HACK_PRACTICE_MUSIC/TIP": "Unlocks the practice music sync settings",
+  "LEVEL/HACK_PRACTICE_MUSIC/TIP": "Unlocks the practice music sync setting",
   "LEVEL/HACK_REPLAY_LAST_CHECKPOINT": "Replay Last Checkpoint",
   "LEVEL/HACK_REPLAY_LAST_CHECKPOINT/TIP": "Respawn from your last practice mode checkpoint after completing a level",
   "LEVEL/HACK_SHOW_HITBOXES_ON_DEATH": "Show Hitboxes On Death",
