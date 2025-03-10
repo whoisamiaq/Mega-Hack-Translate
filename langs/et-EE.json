@@ -49,6 +49,8 @@
   "COSMETIC/HACK_NO_DO_NOT_FLIP/TIP": "Peatab ettevõtte ja taseme tervikteksti tõlkimise",
   "COSMETIC/HACK_NO_PARTICLES": "Osakesed Puuduvad",
   "COSMETIC/HACK_NO_PARTICLES/TIP": "Poistaa partikkeli systeemin käytöstä (suurimmaksi osaksi)",
+  "COSMETIC/HACK_NO_PARTICLES_CLASSIC": "",
+  "COSMETIC/HACK_NO_PARTICLES_CLASSIC/TIP": "",
   "COSMETIC/HACK_NO_PORTAL_LIGHTNING": "Portaali Välk Puudub",
   "COSMETIC/HACK_NO_PORTAL_LIGHTNING/TIP": "Eemaldab välgu portaali objektidelt",
   "COSMETIC/HACK_NO_PULSE": "Pulssi Pole",

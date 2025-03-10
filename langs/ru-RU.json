@@ -49,6 +49,8 @@
   "COSMETIC/HACK_NO_DO_NOT_FLIP/TIP": "Отключает переворачивание счетчика попыток в уровне и надписи Level Complete",
   "COSMETIC/HACK_NO_PARTICLES": "Откл. частицы",
   "COSMETIC/HACK_NO_PARTICLES/TIP": "Отключает частицы (большинство из них)",
+  "COSMETIC/HACK_NO_PARTICLES_CLASSIC": "",
+  "COSMETIC/HACK_NO_PARTICLES_CLASSIC/TIP": "",
   "COSMETIC/HACK_NO_PORTAL_LIGHTNING": "Откл. молнию на порталах",
   "COSMETIC/HACK_NO_PORTAL_LIGHTNING/TIP": "Отключает эффект молнии на порталах изменения размера",
   "COSMETIC/HACK_NO_PULSE": "Откл. пульсацию",

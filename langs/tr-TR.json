@@ -49,6 +49,8 @@
   "COSMETIC/HACK_NO_DO_NOT_FLIP/TIP": "Deneme ve seviye tamamlanma yazılarının döndürülmesini durdurur",
   "COSMETIC/HACK_NO_PARTICLES": "Partikülleri Kaldır",
   "COSMETIC/HACK_NO_PARTICLES/TIP": "Partikül sistemini (çoğunlukla) devre dışı bırakır",
+  "COSMETIC/HACK_NO_PARTICLES_CLASSIC": "",
+  "COSMETIC/HACK_NO_PARTICLES_CLASSIC/TIP": "",
   "COSMETIC/HACK_NO_PORTAL_LIGHTNING": "Portal Yıldırımını Gizle",
   "COSMETIC/HACK_NO_PORTAL_LIGHTNING/TIP": "Boyut değiştiren portallardan portal yıldırımını devre dışı bırakır",
   "COSMETIC/HACK_NO_PULSE": "Nabzı Durdur",

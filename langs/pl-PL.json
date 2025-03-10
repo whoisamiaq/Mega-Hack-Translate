@@ -49,6 +49,8 @@
   "COSMETIC/HACK_NO_DO_NOT_FLIP/TIP": "Zatrzymuje odwracanie tekstu próby i ukończenia poziomu",
   "COSMETIC/HACK_NO_PARTICLES": "Wyłącz Cząsteczki",
   "COSMETIC/HACK_NO_PARTICLES/TIP": "Wyłącza system cząsteczek (w większości)",
+  "COSMETIC/HACK_NO_PARTICLES_CLASSIC": "",
+  "COSMETIC/HACK_NO_PARTICLES_CLASSIC/TIP": "",
   "COSMETIC/HACK_NO_PORTAL_LIGHTNING": "Wyłącz Błyskawice Portali",
   "COSMETIC/HACK_NO_PORTAL_LIGHTNING/TIP": "Wyłącza błyskawice z portali zmieniających rozmiar",
   "COSMETIC/HACK_NO_PULSE": "Wyłącz Puls",

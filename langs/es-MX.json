@@ -49,6 +49,8 @@
   "COSMETIC/HACK_NO_DO_NOT_FLIP/TIP": "La opción 'Do Not..' no afecta a los textos de 'Attempt X' y 'Level Complete'.",
   "COSMETIC/HACK_NO_PARTICLES": "Sin Partículas",
   "COSMETIC/HACK_NO_PARTICLES/TIP": "Desactiva el sistema de partículas (mayormente).",
+  "COSMETIC/HACK_NO_PARTICLES_CLASSIC": "",
+  "COSMETIC/HACK_NO_PARTICLES_CLASSIC/TIP": "",
   "COSMETIC/HACK_NO_PORTAL_LIGHTNING": "Ocultar Rayo de Portales",
   "COSMETIC/HACK_NO_PORTAL_LIGHTNING/TIP": "Desactiva los rayos de los portales que cambian de tamaño.",
   "COSMETIC/HACK_NO_PULSE": "Sin Pulso",

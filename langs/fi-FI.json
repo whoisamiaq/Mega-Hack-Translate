@@ -49,6 +49,8 @@
   "COSMETIC/HACK_NO_DO_NOT_FLIP/TIP": "Lopettaa attempt- ja level complete tekstin kääntymisen",
   "COSMETIC/HACK_NO_PARTICLES": "Ei Partikkelejä",
   "COSMETIC/HACK_NO_PARTICLES/TIP": "Poistaa partikkeli systeemin käytöstä (suurimmaksi osaksi)",
+  "COSMETIC/HACK_NO_PARTICLES_CLASSIC": "",
+  "COSMETIC/HACK_NO_PARTICLES_CLASSIC/TIP": "",
   "COSMETIC/HACK_NO_PORTAL_LIGHTNING": "Ei Portaali Salamaa",
   "COSMETIC/HACK_NO_PORTAL_LIGHTNING/TIP": "Poistaa portaali objektien salaman",
   "COSMETIC/HACK_NO_PULSE": "Ei Pulssia",

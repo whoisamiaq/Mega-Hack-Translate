@@ -49,6 +49,8 @@
   "COSMETIC/HACK_NO_DO_NOT_FLIP/TIP": "Stoppar vändningsförsök och nivå fullständig text",
   "COSMETIC/HACK_NO_PARTICLES": "Inga Partiklar",
   "COSMETIC/HACK_NO_PARTICLES/TIP": "Inaktiverar partikelsystemet (för det mesta)",
+  "COSMETIC/HACK_NO_PARTICLES_CLASSIC": "",
+  "COSMETIC/HACK_NO_PARTICLES_CLASSIC/TIP": "",
   "COSMETIC/HACK_NO_PORTAL_LIGHTNING": "Ingen Portal Lightning",
   "COSMETIC/HACK_NO_PORTAL_LIGHTNING/TIP": "Inaktiverar portalblixt från storleksföränderliga portaler",
   "COSMETIC/HACK_NO_PULSE": "Ingen Puls",

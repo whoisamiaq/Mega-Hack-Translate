@@ -49,6 +49,8 @@
   "COSMETIC/HACK_NO_DO_NOT_FLIP/TIP": "Evita di capovolgere i tenativi e il testo di completamento del livello",
   "COSMETIC/HACK_NO_PARTICLES": "Niente Particelle",
   "COSMETIC/HACK_NO_PARTICLES/TIP": "Disabilita il sistema di particelle (per lo più)",
+  "COSMETIC/HACK_NO_PARTICLES_CLASSIC": "",
+  "COSMETIC/HACK_NO_PARTICLES_CLASSIC/TIP": "",
   "COSMETIC/HACK_NO_PORTAL_LIGHTNING": "Nessun Fulmine sui Portali",
   "COSMETIC/HACK_NO_PORTAL_LIGHTNING/TIP": "Disabilita i fulmini dai portali che cambiano dimensione",
   "COSMETIC/HACK_NO_PULSE": "Nessun Impulso",

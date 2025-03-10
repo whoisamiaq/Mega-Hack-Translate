@@ -49,6 +49,8 @@
   "COSMETIC/HACK_NO_DO_NOT_FLIP/TIP": "Kikapcsolja az attempt es a level complete szövegek megfordítását",
   "COSMETIC/HACK_NO_PARTICLES": "Részecskék",
   "COSMETIC/HACK_NO_PARTICLES/TIP": "(Nagyjából) Kikapcsolja az összes részecskét",
+  "COSMETIC/HACK_NO_PARTICLES_CLASSIC": "",
+  "COSMETIC/HACK_NO_PARTICLES_CLASSIC/TIP": "",
   "COSMETIC/HACK_NO_PORTAL_LIGHTNING": "Portál Villám",
   "COSMETIC/HACK_NO_PORTAL_LIGHTNING/TIP": "Kikapcsolja a méret változtató portáloknak a villámlás effektusát",
   "COSMETIC/HACK_NO_PULSE": "Pulzálás",

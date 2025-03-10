@@ -49,6 +49,8 @@
   "COSMETIC/HACK_NO_DO_NOT_FLIP/TIP": "يوقف محاولة التقليب ونص اكتمال المستوى",
   "COSMETIC/HACK_NO_PARTICLES": "لا جسيمات",
   "COSMETIC/HACK_NO_PARTICLES/TIP": "يعطل نظام الجسيمات (معظمها)",
+  "COSMETIC/HACK_NO_PARTICLES_CLASSIC": "",
+  "COSMETIC/HACK_NO_PARTICLES_CLASSIC/TIP": "",
   "COSMETIC/HACK_NO_PORTAL_LIGHTNING": "لا صاعقة للبوابة",
   "COSMETIC/HACK_NO_PORTAL_LIGHTNING/TIP": "يعطل صاعقة البوابة من بوابات تغيير الحجم",
   "COSMETIC/HACK_NO_PULSE": "لا نبض",

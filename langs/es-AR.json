@@ -49,6 +49,8 @@
   "COSMETIC/HACK_NO_DO_NOT_FLIP/TIP": "Hace que el texto (intentos y Level Complete) no gire cuando se activa la opción Do Not",
   "COSMETIC/HACK_NO_PARTICLES": "Sacar las partículas",
   "COSMETIC/HACK_NO_PARTICLES/TIP": "Desactiva (casi) todas las partículas",
+  "COSMETIC/HACK_NO_PARTICLES_CLASSIC": "",
+  "COSMETIC/HACK_NO_PARTICLES_CLASSIC/TIP": "",
   "COSMETIC/HACK_NO_PORTAL_LIGHTNING": "No luz de fondo de portal",
   "COSMETIC/HACK_NO_PORTAL_LIGHTNING/TIP": "No hacer la luz de fondo al pasar por un portal de cambio de tamaño",
   "COSMETIC/HACK_NO_PULSE": "Sin pulsos",

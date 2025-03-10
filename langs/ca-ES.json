@@ -49,6 +49,8 @@
   "COSMETIC/HACK_NO_DO_NOT_FLIP/TIP": "Evita el gir del text d'intent o nivell completat",
   "COSMETIC/HACK_NO_PARTICLES": "Sense Partícules",
   "COSMETIC/HACK_NO_PARTICLES/TIP": "Desactiva el sistema de partícules (principalment)",
+  "COSMETIC/HACK_NO_PARTICLES_CLASSIC": "",
+  "COSMETIC/HACK_NO_PARTICLES_CLASSIC/TIP": "",
   "COSMETIC/HACK_NO_PORTAL_LIGHTNING": "Sense Llamps de Portal",
   "COSMETIC/HACK_NO_PORTAL_LIGHTNING/TIP": "Desactiva els llamps dels portals de canvi de mida",
   "COSMETIC/HACK_NO_PULSE": "Sense Pols",

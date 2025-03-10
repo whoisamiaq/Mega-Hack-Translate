@@ -49,6 +49,8 @@
   "COSMETIC/HACK_NO_DO_NOT_FLIP/TIP": "Tắt việc lật ngược chữ attempt & level complete",
   "COSMETIC/HACK_NO_PARTICLES": "Tắt particle",
   "COSMETIC/HACK_NO_PARTICLES/TIP": "Vô hiệu hóa toàn bộ các particle (gần như)",
+  "COSMETIC/HACK_NO_PARTICLES_CLASSIC": "",
+  "COSMETIC/HACK_NO_PARTICLES_CLASSIC/TIP": "",
   "COSMETIC/HACK_NO_PORTAL_LIGHTNING": "Tắt chớp ở portal",
   "COSMETIC/HACK_NO_PORTAL_LIGHTNING/TIP": "Vô hiệu hóa hiệu ứng chớp ở các portal đổi cỡ của player",
   "COSMETIC/HACK_NO_PULSE": "Tắt hiệu ứng pulse ",

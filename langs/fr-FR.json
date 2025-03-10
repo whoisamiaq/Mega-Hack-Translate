@@ -49,6 +49,8 @@
   "COSMETIC/HACK_NO_DO_NOT_FLIP/TIP": "Désactive la fonction \"Do Not...\" même si activée en jeu (Certains textes retournés)",
   "COSMETIC/HACK_NO_PARTICLES": "Pas de Particules",
   "COSMETIC/HACK_NO_PARTICLES/TIP": "Désactive la majorité du système de particules",
+  "COSMETIC/HACK_NO_PARTICLES_CLASSIC": "",
+  "COSMETIC/HACK_NO_PARTICLES_CLASSIC/TIP": "",
   "COSMETIC/HACK_NO_PORTAL_LIGHTNING": "Pas d'éclair de Portail",
   "COSMETIC/HACK_NO_PORTAL_LIGHTNING/TIP": "Désactive l'éclair du portail de changement de taille",
   "COSMETIC/HACK_NO_PULSE": "Aucune pulsation",

@@ -49,6 +49,8 @@
   "COSMETIC/HACK_NO_DO_NOT_FLIP/TIP": "Деактивує функцію «Do Not...», тобто деактивує переворот лічильника спроб і напису успішного проходження рівня",
   "COSMETIC/HACK_NO_PARTICLES": "Деакт. частинок",
   "COSMETIC/HACK_NO_PARTICLES/TIP": "Деактивує більшість частинок",
+  "COSMETIC/HACK_NO_PARTICLES_CLASSIC": "",
+  "COSMETIC/HACK_NO_PARTICLES_CLASSIC/TIP": "",
   "COSMETIC/HACK_NO_PORTAL_LIGHTNING": "Деакт. блискавок у порталів",
   "COSMETIC/HACK_NO_PORTAL_LIGHTNING/TIP": "Деактивує ефект блискавки на порталах зміни розміру гравця",
   "COSMETIC/HACK_NO_PULSE": "Деакт. пульсації",

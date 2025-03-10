@@ -49,6 +49,8 @@
   "COSMETIC/HACK_NO_DO_NOT_FLIP/TIP": "Stopann sé iarracht a smeach agus leibhéal an téacs iomlán",
   "COSMETIC/HACK_NO_PARTICLES": "Níl aon cháithníní",
   "COSMETIC/HACK_NO_PARTICLES/TIP": "Díchumasaíonn sé an córas cáithníní (den chuid is mó)",
+  "COSMETIC/HACK_NO_PARTICLES_CLASSIC": "",
+  "COSMETIC/HACK_NO_PARTICLES_CLASSIC/TIP": "",
   "COSMETIC/HACK_NO_PORTAL_LIGHTNING": "Uimh Tintreach Tairseach",
   "COSMETIC/HACK_NO_PORTAL_LIGHTNING/TIP": "Díchumasaítear soilsiú tairseach ó thairseacha a athraíonn méid",
   "COSMETIC/HACK_NO_PULSE": "Uimh Cuisle",

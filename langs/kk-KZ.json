@@ -49,6 +49,8 @@
   "COSMETIC/HACK_NO_DO_NOT_FLIP/TIP": "Сынақ және деңгейді аяқтау мәтіндерін айналдыруды тоқтатады",
   "COSMETIC/HACK_NO_PARTICLES": "Бөлшектерді Өшіру",
   "COSMETIC/HACK_NO_PARTICLES/TIP": "Бөлшектер жүйесін өшіреді (негізінен)",
+  "COSMETIC/HACK_NO_PARTICLES_CLASSIC": "",
+  "COSMETIC/HACK_NO_PARTICLES_CLASSIC/TIP": "",
   "COSMETIC/HACK_NO_PORTAL_LIGHTNING": "Порталдардағы найзағайды өшіру",
   "COSMETIC/HACK_NO_PORTAL_LIGHTNING/TIP": "Өлшемді ауыстыру порталдарынан портал найзағайын өшіреді",
   "COSMETIC/HACK_NO_PULSE": "Пульсацияны Өшіру",

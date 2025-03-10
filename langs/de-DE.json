@@ -49,6 +49,8 @@
   "COSMETIC/HACK_NO_DO_NOT_FLIP/TIP": "Der Attempt- und \"Level Complete\"-Text werden nicht mehr invertiert, wenn die \"Do Not...\"-Option aktiviert ist",
   "COSMETIC/HACK_NO_PARTICLES": "Keine Partikel",
   "COSMETIC/HACK_NO_PARTICLES/TIP": "Deaktiviert das Partikel-System (größtenteils)",
+  "COSMETIC/HACK_NO_PARTICLES_CLASSIC": "",
+  "COSMETIC/HACK_NO_PARTICLES_CLASSIC/TIP": "",
   "COSMETIC/HACK_NO_PORTAL_LIGHTNING": "Kein Portal-Blitz",
   "COSMETIC/HACK_NO_PORTAL_LIGHTNING/TIP": "Deaktiviert die Blitze von Portalen, die die Größe des Spielers verändern",
   "COSMETIC/HACK_NO_PULSE": "Kein Pulsieren",

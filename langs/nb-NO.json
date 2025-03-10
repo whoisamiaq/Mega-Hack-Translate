@@ -49,6 +49,8 @@
   "COSMETIC/HACK_NO_DO_NOT_FLIP/TIP": "Stopper å velte forsøks- og nivået-ferdig tekst",
   "COSMETIC/HACK_NO_PARTICLES": "Ingen Partikler",
   "COSMETIC/HACK_NO_PARTICLES/TIP": "Deaktiverer partikkelsystemet (for det meste)",
+  "COSMETIC/HACK_NO_PARTICLES_CLASSIC": "",
+  "COSMETIC/HACK_NO_PARTICLES_CLASSIC/TIP": "",
   "COSMETIC/HACK_NO_PORTAL_LIGHTNING": "Ingen portallyn",
   "COSMETIC/HACK_NO_PORTAL_LIGHTNING/TIP": "Deaktiverer portallyn fra størrelsesendrende portaler",
   "COSMETIC/HACK_NO_PULSE": "Ingen Pulsering",
