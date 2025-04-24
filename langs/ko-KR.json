@@ -370,7 +370,7 @@
   "DISPLAY/DELTA/HACK_REAL_TIME": "실시간",
   "DISPLAY/DELTA/HACK_REAL_TIME/TIP": "델타 고정 사용 시 프레임당 여러 번 처리를 허용하여 속도 저하를 완화합니다.",
   "DISPLAY/HACK_BORDERLESS_CLASSIC": "보더리스 클래식",
-  "DISPLAY/HACK_BORDERLESS_CLASSIC/TIP": "테두리 없는 전체 화면을 클래식으로 구현합니다.(GD 자체 구현과 별개).",
+  "DISPLAY/HACK_BORDERLESS_CLASSIC/TIP": "테두리 없는 전체 화면을 클래식으로 구현합니다(GD 자체 구현과 별개).",
   "DISPLAY/FULLSCREEN/HACK_FULLSCREEN": "전체 화면",
   "DISPLAY/FULLSCREEN/HACK_FULLSCREEN/TIP": "게임이 기본 디스플레이를 가득 채웁니다.",
   "DISPLAY/FULLSCREEN/COMBO/0": "독점",
