@@ -397,6 +397,7 @@
   "SCREENSHOT": "Знімок екрану",
   "SCREENSHOT/SCREENSHOT": "Знімок екрану",
   "SCREENSHOT/SCREENSHOT/TIP": "Робить знімок екрану",
-  "SCREENSHOT/COPY_TO_CLIPBOARD": "Скопіювати в буфер обміну",
-  "SCREENSHOT/COPY_TO_CLIPBOARD/TIP": "Копіює знімок екрану в ваш буфер обміну"
+  "SCREENSHOT/COMBO/0": "",
+  "SCREENSHOT/COMBO/1": "Скопіювати в буфер обміну",
+  "SCREENSHOT/COMBO/2": ""
 }

@@ -397,6 +397,7 @@
   "SCREENSHOT": "Screenshot",
   "SCREENSHOT/SCREENSHOT": "Screenshot",
   "SCREENSHOT/SCREENSHOT/TIP": "Nimmt einen Screenshot auf",
-  "SCREENSHOT/COPY_TO_CLIPBOARD": "Kopieren",
-  "SCREENSHOT/COPY_TO_CLIPBOARD/TIP": "Kopiert den Screenshot in die Zwischenablage"
+  "SCREENSHOT/COMBO/0": "",
+  "SCREENSHOT/COMBO/1": "Kopieren",
+  "SCREENSHOT/COMBO/2": ""
 }

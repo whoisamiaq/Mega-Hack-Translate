@@ -397,6 +397,7 @@
   "SCREENSHOT": "Capture d'écran",
   "SCREENSHOT/SCREENSHOT": "Capture d'écran",
   "SCREENSHOT/SCREENSHOT/TIP": "Prend une capture d'écran",
-  "SCREENSHOT/COPY_TO_CLIPBOARD": "Copier dans presse-papiers",
-  "SCREENSHOT/COPY_TO_CLIPBOARD/TIP": "Copie la capture d'écran dans votre presse-papiers"
+  "SCREENSHOT/COMBO/0": "",
+  "SCREENSHOT/COMBO/1": "Copier dans presse-papiers",
+  "SCREENSHOT/COMBO/2": ""
 }

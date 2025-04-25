@@ -397,6 +397,7 @@
   "SCREENSHOT": "Kuvakaappaus",
   "SCREENSHOT/SCREENSHOT": "Kuvakaappaus",
   "SCREENSHOT/SCREENSHOT/TIP": "Ottaa kuvakaappauksen",
-  "SCREENSHOT/COPY_TO_CLIPBOARD": "Kopioi Leikepöydälle",
-  "SCREENSHOT/COPY_TO_CLIPBOARD/TIP": "Kopioi kuvakaappauksen leikepöydällesi"
+  "SCREENSHOT/COMBO/0": "",
+  "SCREENSHOT/COMBO/1": "Kopioi Leikepöydälle",
+  "SCREENSHOT/COMBO/2": ""
 }

@@ -397,6 +397,7 @@
   "SCREENSHOT": "Captura de pantalla",
   "SCREENSHOT/SCREENSHOT": "Captura de pantalla",
   "SCREENSHOT/SCREENSHOT/TIP": "Fes una captura de pantalla",
-  "SCREENSHOT/COPY_TO_CLIPBOARD": "Copiar al porta-retalls",
-  "SCREENSHOT/COPY_TO_CLIPBOARD/TIP": "Copia la captura de pantalla al porta-retalls"
+  "SCREENSHOT/COMBO/0": "",
+  "SCREENSHOT/COMBO/1": "Copiar al porta-retalls",
+  "SCREENSHOT/COMBO/2": ""
 }

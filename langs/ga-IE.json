@@ -397,6 +397,7 @@
   "SCREENSHOT": "Scáileáin",
   "SCREENSHOT/SCREENSHOT": "Scáileáin",
   "SCREENSHOT/SCREENSHOT/TIP": "Glacann sé scáileán",
-  "SCREENSHOT/COPY_TO_CLIPBOARD": "Cóip chuig an nGearrthaisce",
-  "SCREENSHOT/COPY_TO_CLIPBOARD/TIP": "Cóipeáil an gabháil scáileáin chuig do ghearrthaisce"
+  "SCREENSHOT/COMBO/0": "",
+  "SCREENSHOT/COMBO/1": "Cóip chuig an nGearrthaisce",
+  "SCREENSHOT/COMBO/2": ""
 }

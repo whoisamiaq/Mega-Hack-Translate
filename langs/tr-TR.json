@@ -397,6 +397,7 @@
   "SCREENSHOT": "Ekran Görüntüsü",
   "SCREENSHOT/SCREENSHOT": "Ekran Görüntüsü",
   "SCREENSHOT/SCREENSHOT/TIP": "Ekran görüntüsü alır",
-  "SCREENSHOT/COPY_TO_CLIPBOARD": "Pano'ya kopyala",
-  "SCREENSHOT/COPY_TO_CLIPBOARD/TIP": "Ekran görüntüsünü pano'ya kopyalar"
+  "SCREENSHOT/COMBO/0": "",
+  "SCREENSHOT/COMBO/1": "Pano'ya kopyala",
+  "SCREENSHOT/COMBO/2": ""
 }

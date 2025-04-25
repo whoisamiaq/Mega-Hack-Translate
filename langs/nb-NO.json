@@ -397,6 +397,7 @@
   "SCREENSHOT": "Skjermdump",
   "SCREENSHOT/SCREENSHOT": "Skjermdump",
   "SCREENSHOT/SCREENSHOT/TIP": "Tar en skjermdump",
-  "SCREENSHOT/COPY_TO_CLIPBOARD": "Kopier til Utklippstavlen",
-  "SCREENSHOT/COPY_TO_CLIPBOARD/TIP": "Kopierer skjermdumpen til utklippstavlen din"
+  "SCREENSHOT/COMBO/0": "",
+  "SCREENSHOT/COMBO/1": "Kopier til Utklippstavlen",
+  "SCREENSHOT/COMBO/2": ""
 }

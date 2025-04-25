@@ -397,6 +397,7 @@
   "SCREENSHOT": "Captura de tela",
   "SCREENSHOT/SCREENSHOT": "Captura de tela",
   "SCREENSHOT/SCREENSHOT/TIP": "Tira uma captura de tela",
-  "SCREENSHOT/COPY_TO_CLIPBOARD": "Copiar para Área de Transferência",
-  "SCREENSHOT/COPY_TO_CLIPBOARD/TIP": "Copia a captura de tela para a Área de Transferência"
+  "SCREENSHOT/COMBO/0": "",
+  "SCREENSHOT/COMBO/1": "Copiar para Área de Transferência",
+  "SCREENSHOT/COMBO/2": ""
 }

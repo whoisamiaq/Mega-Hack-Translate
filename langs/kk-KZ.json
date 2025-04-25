@@ -397,6 +397,7 @@
   "SCREENSHOT": "Скриншот",
   "SCREENSHOT/SCREENSHOT": "Скриншот",
   "SCREENSHOT/SCREENSHOT/TIP": "Скриншотты істейді",
-  "SCREENSHOT/COPY_TO_CLIPBOARD": "Алмасу буферіне сақтану",
-  "SCREENSHOT/COPY_TO_CLIPBOARD/TIP": "Скриншотты алмасу буферіне көшіреді"
+  "SCREENSHOT/COMBO/0": "",
+  "SCREENSHOT/COMBO/1": "Алмасу буферіне сақтану",
+  "SCREENSHOT/COMBO/2": ""
 }

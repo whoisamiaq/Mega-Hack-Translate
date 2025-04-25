@@ -397,6 +397,7 @@
   "SCREENSHOT": "Ảnh màn hình",
   "SCREENSHOT/SCREENSHOT": "Ảnh màn hình",
   "SCREENSHOT/SCREENSHOT/TIP": "Chụp màn hình",
-  "SCREENSHOT/COPY_TO_CLIPBOARD": "Lưu vào bảng nhớ tạm",
-  "SCREENSHOT/COPY_TO_CLIPBOARD/TIP": "Sao chép ảnh chụp màn hình vào bảng nhớ tạm"
+  "SCREENSHOT/COMBO/0": "",
+  "SCREENSHOT/COMBO/1": "Lưu vào bảng nhớ tạm",
+  "SCREENSHOT/COMBO/2": ""
 }

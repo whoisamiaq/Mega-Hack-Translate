@@ -397,6 +397,7 @@
   "SCREENSHOT": "Captura de pantalla",
   "SCREENSHOT/SCREENSHOT": "Tomar captura",
   "SCREENSHOT/SCREENSHOT/TIP": "Toma una captura de pantalla de la ventana del juego",
-  "SCREENSHOT/COPY_TO_CLIPBOARD": "Copiar al portapapeles",
-  "SCREENSHOT/COPY_TO_CLIPBOARD/TIP": "Copia la captura al portapapeles"
+  "SCREENSHOT/COMBO/0": "",
+  "SCREENSHOT/COMBO/1": "Copiar al portapapeles",
+  "SCREENSHOT/COMBO/2": ""
 }

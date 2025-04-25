@@ -397,6 +397,7 @@
   "SCREENSHOT": "لقطة شاشة",
   "SCREENSHOT/SCREENSHOT": "لقطة شاشة",
   "SCREENSHOT/SCREENSHOT/TIP": "يأخذ لقطة شاشة",
-  "SCREENSHOT/COPY_TO_CLIPBOARD": "نسخ إلى الحافظة",
-  "SCREENSHOT/COPY_TO_CLIPBOARD/TIP": "ينسخ لقطة الشاشة إلى الحافظة"
+  "SCREENSHOT/COMBO/0": "",
+  "SCREENSHOT/COMBO/1": "نسخ إلى الحافظة",
+  "SCREENSHOT/COMBO/2": ""
 }

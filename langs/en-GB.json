@@ -397,6 +397,7 @@
   "SCREENSHOT": "Screenshot",
   "SCREENSHOT/SCREENSHOT": "Screenshot",
   "SCREENSHOT/SCREENSHOT/TIP": "Takes a screenshot",
-  "SCREENSHOT/COPY_TO_CLIPBOARD": "Copy to Clipboard",
-  "SCREENSHOT/COPY_TO_CLIPBOARD/TIP": "Copies the screenshot to your clipboard"
+  "SCREENSHOT/COMBO/0": "Save & Copy",
+  "SCREENSHOT/COMBO/1": "Copy to Clipboard",
+  "SCREENSHOT/COMBO/2": "Save to File"
 }
