@@ -397,7 +397,7 @@
   "SCREENSHOT": "스크린샷",
   "SCREENSHOT/SCREENSHOT": "스크린샷",
   "SCREENSHOT/SCREENSHOT/TIP": "스크린샷을 찍습니다.",
-  "SCREENSHOT/COMBO/0": "",
-  "SCREENSHOT/COMBO/1": "클립보드 복사",
-  "SCREENSHOT/COMBO/2": ""
+  "SCREENSHOT/COMBO/0": "저장 & 복사",
+  "SCREENSHOT/COMBO/1": "클립보드에 복사",
+  "SCREENSHOT/COMBO/2": "파일에 저장"
 }
