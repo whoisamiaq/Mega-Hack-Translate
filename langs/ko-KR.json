@@ -312,7 +312,7 @@
   "LEVEL/STARTPOS_SWITCHER/HACK_STARTPOS_SWITCHER/TIP": "레벨 내에서 여러 StartPos 간 이동할 수 있습니다.",
   "UNIVERSAL": "유니버설",
   "UNIVERSAL/CUSTOM_BG/HACK_CUSTOM_BG": "커스텀 배경화면",
-  "UNIVERSAL/CUSTOM_BG/HACK_CUSTOM_BG/TIP": "GD 메뉴의 색상의 사용자 지정을 설정을 변경할 수 있습니다.",
+  "UNIVERSAL/CUSTOM_BG/HACK_CUSTOM_BG/TIP": "GD 메뉴의 색상의 사용자 지정 설정을 변경할 수 있습니다.",
   "UNIVERSAL/HACK_ALLOW_LOW_VOLUME": "낮은 음량 허용",
   "UNIVERSAL/HACK_ALLOW_LOW_VOLUME/TIP": "음량을 3% 이하로 설정할 때 0%로 자동 설정되는 현상을 제거합니다.",
   "UNIVERSAL/HACK_AUTO_SAFE_MODE": "자동 안전 모드",
