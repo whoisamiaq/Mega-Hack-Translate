@@ -16,6 +16,8 @@ Regional dialects of languages are allowed too, such as en-US alongside en-GB.
 
 Please remember that proper nouns, such as "Mega Hack" and "Geometry Dash", should not be translated.
 
+The [LIVE.json](/langs/LIVE.json) file contains global definitions, anything in here should not be added to language dictionaries.
+
 Translations should not always be literal and instead should match common terms used by the community already. For example, do not translate "wave" if "wave" is the commonly spoken term in your language.
 
 Titles for hacks and options should be kept as short as possible so that they fit in the interface. For Latin-based languages, 20 characters is a good estimate. However, this depends on character sizes so it isn't a strict guideline.
