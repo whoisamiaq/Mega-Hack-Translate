@@ -471,7 +471,7 @@
   "STATUS/*/MOVE/DOWN": "아래로",
   "STATUS/*/MOVE/UP": "위로",
   "STATUS/*/UNITS": "단위 표시",
-  "STATUS/TESTMODE/ENABLED": "테스트모드",
+  "STATUS/TESTMODE/ENABLED": "테스트 모드",
   "STATUS/CHEAT_INDICATOR/ENABLED": "치트 표시기",
   "STATUS/FPS/ENABLED": "FPS 카운터",
   "STATUS/CPS/ENABLED": "CPS 카운터",
