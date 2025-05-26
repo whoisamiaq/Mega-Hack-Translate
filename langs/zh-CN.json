@@ -138,7 +138,7 @@
   "CREATOR/HACK_PLACE_OVER": "堆叠放置",
   "CREATOR/HACK_PLACE_OVER/TIP": "允许堆叠放置同样的物体",
   "CREATOR/HACK_SMOOTH_EDITOR_TRAIL": "平整测试尾迹",
-  "CREATOR/HACK_SMOOTH_EDITOR_TRAIL/TIP": "为了平整测试尾迹, 编辑器内測驗关卡时尾迹按帧渲染 (代替按30FPS渲染)",
+  "CREATOR/HACK_SMOOTH_EDITOR_TRAIL/TIP": "为了平整测试尾迹, 编辑器内测验关卡时尾迹按帧渲染 (代替按30FPS渲染)",
   "CREATOR/HACK_TOOLBOX_BUTTON_BYPASS": "具箱按钮解除限制",
   "CREATOR/HACK_TOOLBOX_BUTTON_BYPASS/TIP": "允许编辑器具箱内保存更多物体",
   "CREATOR/HACK_TRIGGER_VALUE_BYPASS": "扳机变量值解除限制",
