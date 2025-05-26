@@ -322,7 +322,7 @@
   "UNIVERSAL/HACK_ALLOW_LOW_VOLUME": "Allow Low Volume",
   "UNIVERSAL/HACK_ALLOW_LOW_VOLUME/TIP": "Removes snapping to 0% when setting volume to 3% or below",
   "UNIVERSAL/HACK_AUTO_SAFE_MODE": "Auto Safe Mode",
-  "UNIVERSAL/HACK_AUTO_SAFE_MODE/TIP": "Triggers Safe Mode is cheats have been used in an attempt",
+  "UNIVERSAL/HACK_AUTO_SAFE_MODE/TIP": "Triggers Safe Mode if cheats have been used in an attempt",
   "UNIVERSAL/HACK_FAST_CHESTS": "Fast Chests",
   "UNIVERSAL/HACK_FAST_CHESTS/TIP": "Speeds up the chest animation",
   "UNIVERSAL/HACK_LOCK_CURSOR": "Lock Cursor",
