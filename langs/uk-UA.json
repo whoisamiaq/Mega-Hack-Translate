@@ -328,7 +328,7 @@
   "UNIVERSAL/CUSTOM_BG/HACK_CUSTOM_BG": "Кастомний фон",
   "UNIVERSAL/CUSTOM_BG/HACK_CUSTOM_BG/TIP": "Кастомізує колір фонів меню",
   "UNIVERSAL/HACK_ALLOW_LOW_VOLUME": "Дозволити низьку гучність",
-  "UNIVERSAL/HACK_ALLOW_LOW_VOLUME/TIP": "Не дає поставити гучність звуку на 0%, коли намаються змінити гучність на 3% або нижче",
+  "UNIVERSAL/HACK_ALLOW_LOW_VOLUME/TIP": "Не дає поставити гучність звуку на 0%, коли намагаються змінити гучність на 3% або нижче",
   "UNIVERSAL/HACK_AUTO_SAFE_MODE": "Автом. безпечний режим",
   "UNIVERSAL/HACK_AUTO_SAFE_MODE/TIP": "Автоматично вмикає безпечний режим, але тільки коли ввімкнені чити",
   "UNIVERSAL/HACK_FAST_CHESTS": "Швидкі скрині",
