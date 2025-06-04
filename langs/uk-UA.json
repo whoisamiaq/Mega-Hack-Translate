@@ -278,7 +278,7 @@
   "LEVEL/NOCLIP_LIMITS/DROPDOWN/DEATH_LIMIT_ON": "Увімкнути ліміт на смерті",
   "LEVEL/NOCLIP_LIMITS/HACK_NOCLIP_LIMITS": "Ліміт на ноукліп",
   "LEVEL/NOCLIP_LIMITS/HACK_NOCLIP_LIMITS/TIP": "Вбиває гравця після проходження певного порогу точності; потрібен ноукліп",
-  "LEVEL/NO_COLLISION/HACK_NO_COLLISION": "Деактю зіткнення",
+  "LEVEL/NO_COLLISION/HACK_NO_COLLISION": "Деакт. зіткнення",
   "LEVEL/NO_COLLISION/DROPDOWN/HAZARDS": "Шипи",
   "LEVEL/NO_COLLISION/DROPDOWN/SLOPES": "Схили",
   "LEVEL/NO_COLLISION/DROPDOWN/SOLIDS": "Тверді тіла",
