@@ -5,8 +5,14 @@
   "NX/COLOUR/INPUT": "HEX-код цвета:",
   "NX/COLOUR/R": "Красный:",
   "NX/COLOUR/RESET": "Сбросить цвет",
+  "NX/COMBO/EMPTY": "",
+  "NX/PICKER/EMPTY": "",
   "HOME/LANGUAGE": "Язык: ",
   "HOME/SEARCH": "Поиск: ",
+  "HOME/HOTKEY_ALT": "",
+  "HOME/HOTKEY_ALT/PRE": "",
+  "HOME/HOTKEY_ICONS": "",
+  "HOME/HOTKEY_ICONS/PRE": "",
   "HOME/SORT_TABS": "Сортировать интерфейс",
   "HOME/SCALE": "Размер интерфейса:",
   "HOME/SCALE/PRE": "Размер интерфейса: ",
@@ -495,5 +501,12 @@
   "STATUS/LEVEL_TIME/ENABLED": "Время уровня",
   "STATUS/PERCENTAGE/ENABLED": "Проценты",
   "STATUS/CLOCK/ENABLED": "Часы",
-  "STATUS/CLOCK/DROPDOWN/TWELVE_HOUR": "12-ти часовая система"
+  "STATUS/CLOCK/DROPDOWN/TWELVE_HOUR": "12-ти часовая система",
+  "STATUS/FRAME/ENABLED": "",
+  "STATUS/REPLAY_STATE/ENABLED": "",
+  "REPLAY": "",
+  "REPLAY/STATE/RECORD": "",
+  "REPLAY/STATE/PLAY": "",
+  "REPLAY/SAVE_LAYOUT/AUTO_SAVE": "",
+  "REPLAY/SAVE_LAYOUT/SAVE": ""
 }

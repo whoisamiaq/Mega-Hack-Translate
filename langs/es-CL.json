@@ -5,8 +5,14 @@
   "NX/COLOUR/INPUT": "Color Hexa:",
   "NX/COLOUR/R": "Rojo:",
   "NX/COLOUR/RESET": "Dejar el color como estaba",
+  "NX/COMBO/EMPTY": "",
+  "NX/PICKER/EMPTY": "",
   "HOME/LANGUAGE": "Idioma: ",
   "HOME/SEARCH": "Buscar:",
+  "HOME/HOTKEY_ALT": "",
+  "HOME/HOTKEY_ALT/PRE": "",
+  "HOME/HOTKEY_ICONS": "",
+  "HOME/HOTKEY_ICONS/PRE": "",
   "HOME/SORT_TABS": "Ordenar la Interfaz",
   "HOME/SCALE": "Escala de la Interfaz:",
   "HOME/SCALE/PRE": "Escala de la Interfaz: ",
@@ -495,5 +501,12 @@
   "STATUS/LEVEL_TIME/ENABLED": "Tiempo de Nivel",
   "STATUS/PERCENTAGE/ENABLED": "Porcentaje",
   "STATUS/CLOCK/ENABLED": "Reloj",
-  "STATUS/CLOCK/DROPDOWN/TWELVE_HOUR": "12 horas"
+  "STATUS/CLOCK/DROPDOWN/TWELVE_HOUR": "12 horas",
+  "STATUS/FRAME/ENABLED": "",
+  "STATUS/REPLAY_STATE/ENABLED": "",
+  "REPLAY": "",
+  "REPLAY/STATE/RECORD": "",
+  "REPLAY/STATE/PLAY": "",
+  "REPLAY/SAVE_LAYOUT/AUTO_SAVE": "",
+  "REPLAY/SAVE_LAYOUT/SAVE": ""
 }

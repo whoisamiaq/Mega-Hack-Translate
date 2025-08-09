@@ -5,8 +5,14 @@
   "NX/COLOUR/INPUT": "HEX кольору:",
   "NX/COLOUR/R": "Червоний:",
   "NX/COLOUR/RESET": "Скинути колір",
+  "NX/COMBO/EMPTY": "",
+  "NX/PICKER/EMPTY": "",
   "HOME/LANGUAGE": "Мова: ",
   "HOME/SEARCH": "Пошук:",
+  "HOME/HOTKEY_ALT": "",
+  "HOME/HOTKEY_ALT/PRE": "",
+  "HOME/HOTKEY_ICONS": "",
+  "HOME/HOTKEY_ICONS/PRE": "",
   "HOME/SORT_TABS": "Сортування інтерфейсу",
   "HOME/SCALE": "Масштаб інтерфейсу:",
   "HOME/SCALE/PRE": "Масштаб інтерфейсу: ",
@@ -495,5 +501,12 @@
   "STATUS/LEVEL_TIME/ENABLED": "Час проходження",
   "STATUS/PERCENTAGE/ENABLED": "Кількість відсотків",
   "STATUS/CLOCK/ENABLED": "Годинник",
-  "STATUS/CLOCK/DROPDOWN/TWELVE_HOUR": "12-годинний формат"
+  "STATUS/CLOCK/DROPDOWN/TWELVE_HOUR": "12-годинний формат",
+  "STATUS/FRAME/ENABLED": "",
+  "STATUS/REPLAY_STATE/ENABLED": "",
+  "REPLAY": "",
+  "REPLAY/STATE/RECORD": "",
+  "REPLAY/STATE/PLAY": "",
+  "REPLAY/SAVE_LAYOUT/AUTO_SAVE": "",
+  "REPLAY/SAVE_LAYOUT/SAVE": ""
 }
