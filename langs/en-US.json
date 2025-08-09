@@ -7,6 +7,8 @@
   "NX/COLOUR/RESET": "Reset Color",
   "NX/COMBO/EMPTY": "No Items...",
   "NX/PICKER/EMPTY": "No Files Found...",
+  "NX/PICKER/INPUT": "",
+  "NX/PICKER/INPUT/PRE": "",
   "HOME/LANGUAGE": "Language: ",
   "HOME/SEARCH": "Search:",
   "HOME/HOTKEY_ALT": "Alt Hotkey:",
