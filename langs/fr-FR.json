@@ -119,7 +119,7 @@
   "COSMETIC/HACK_SOLID_WAVE_TRAIL": "Couleur de la Wave",
   "COSMETIC/HACK_SOLID_WAVE_TRAIL/TIP": "Pas de mélange de couleur sur la traînée de la Wave, comme le noir et le blanc",
   "COSMETIC/HACK_STOP_TRIGGERS_ON_DEATH": "Arrêt Déclencheurs à la mort",
-  "COSMETIC/HACK_STOP_TRIGGERS_ON_DEATH/TIP": "Arrête tous les déclencheurs de mouvement/rotation après une mort pour voir la cause de la mort",
+  "COSMETIC/HACK_STOP_TRIGGERS_ON_DEATH/TIP": "Arrête tous les déclencheurs de mouvement/rotation après une mort pour voir ce qui l'à causée",
   "COSMETIC/HACK_TRAIL_CUTTING": "Traînée découpée",
   "COSMETIC/HACK_TRAIL_CUTTING/TIP": "Réintroduit le bug de la traînée découpée",
   "COSMETIC/HACK_WAVE_TRAIL_ON_DEATH": "Traînée Wave à la mort",
