@@ -5,8 +5,18 @@
   "NX/COLOUR/INPUT": "Hex Kolorea:",
   "NX/COLOUR/R": "Gorria: ",
   "NX/COLOUR/RESET": "Kolorea Berrezarri",
+  "NX/COMBO/EMPTY": "Ezer hautatuta...",
+  "NX/PICKER/EMPTY": "Aurkitu ez da...",
+  "NX/PICKER/INPUT": "Fitxategia...",
+  "NX/PICKER/INPUT/PRE": "Fitxategia: ",
+  "ERROR": "Arazoa",
+  "ERROR/DISMISS": "Baztertu",
   "HOME/LANGUAGE": "Hizkuntza: ",
   "HOME/SEARCH": "Bilatu:",
+  "HOME/HOTKEY_ALT": "Ordezko Lasterbidea",
+  "HOME/HOTKEY_ALT/PRE": "Lasterbidea: ",
+  "HOME/HOTKEY_ICONS": "Ikonoen Lasterbidea",
+  "HOME/HOTKEY_ICONS/PRE": "Ikonoak: ",
   "HOME/SORT_TABS": "Fitxak Txukundu",
   "HOME/SCALE": "Interfazearen Tamaina:",
   "HOME/SCALE/PRE": "Interfazearen Tamaina: ",
@@ -496,4 +506,9 @@
   "STATUS/PERCENTAGE/ENABLED": "Ehunekoa",
   "STATUS/CLOCK/ENABLED": "Erlojua",
   "STATUS/CLOCK/DROPDOWN/TWELVE_HOUR": "12 ordukoa"
+  "REPLAY": "Errepikapena",
+  "REPLAY/STATE/RECORD": "Grabatu",
+  "REPLAY/STATE/PLAY": "Ikusi",
+  "REPLAY/SAVE_LAYOUT/AUTO_SAVE": "Automatikoki Gorde",
+  "REPLAY/SAVE_LAYOUT/SAVE": "Gorde"
 }
