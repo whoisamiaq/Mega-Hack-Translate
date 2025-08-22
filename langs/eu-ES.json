@@ -505,7 +505,9 @@
   "STATUS/LEVEL_TIME/ENABLED": "Maila-Denbora",
   "STATUS/PERCENTAGE/ENABLED": "Ehunekoa",
   "STATUS/CLOCK/ENABLED": "Erlojua",
-  "STATUS/CLOCK/DROPDOWN/TWELVE_HOUR": "12 ordukoa"
+  "STATUS/CLOCK/DROPDOWN/TWELVE_HOUR": "12 ordukoa",
+  "STATUS/FRAME/ENABLED": "Fotograma-Kontadorea",
+  "STATUS/REPLAY_STATE/ENABLED": "Replay Egoera",
   "REPLAY": "Errepikapena",
   "REPLAY/STATE/RECORD": "Grabatu",
   "REPLAY/STATE/PLAY": "Ikusi",
