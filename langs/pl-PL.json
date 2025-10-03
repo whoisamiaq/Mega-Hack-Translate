@@ -266,7 +266,7 @@
   "LEVEL/HACK_SHOW_TRAJECTORY": "",
   "LEVEL/HACK_SHOW_TRAJECTORY/TIP": "",
   "LEVEL/HACK_SHOW_TRIGGERS": "Pokaż Triggery",
-  "LEVEL/HACK_SHOW_TRIGGERS/TIP": "Pokazuje triggers w poziomie",
+  "LEVEL/HACK_SHOW_TRIGGERS/TIP": "Pokazuje triggery w poziomie",
   "LEVEL/HACK_STARTPOS_RESET_CAMERA": "Reset Kamery StartPos",
   "LEVEL/HACK_STARTPOS_RESET_CAMERA/TIP": "Wymusza reset kamery dla każdego StartPosu",
   "LEVEL/HITBOX_MULTIPLIER/HACK_HITBOX_MULTIPLIER": "",
