@@ -22,6 +22,10 @@ Translations should not always be literal and instead should match common terms 
 
 Titles for hacks and options should be kept as short as possible so that they fit in the interface. For Latin-based languages, 20 characters is a good estimate. However, this depends on character sizes so it isn't a strict guideline.
 
+Languages with similar dialect can use a seperate language as a base, for example [en-US.json](/langs/en-US.json)'s base is [en-GB.json](/langs/en-GB.json). If a language has a base, it is marked at the top of its JSON file under the `__BASE__` key. Please use this to reduce redundant translations and only define a translation in a derived language if it is going to be different from its base's translation.
+
+## Reserved Tags
+
 Any tags ending in `/PRE` or `/SUF` are prefixes or suffixes to input boxes respectively. Prefixes should include spaces after their colons, for where user input begins. Parent tags do not need this space as this is the placeholder text, shown when the input box is empty.
 
 ```
