@@ -1,7 +1,7 @@
 {
   "__BASE__": "en-GB",
-  "NX/COLOUR/DROPDOWN/INPUT": "Hex Color:",
-  "NX/COLOUR/INPUT": "Hex Color:",
+  "NX/COLOUR/DROPDOWN/INPUT": "Hex Color",
+  "NX/COLOUR/INPUT": "Hex Color",
   "NX/COLOUR/RESET": "Reset Color",
   "BYPASS/HACK_MUSIC_UNLOCKER": "Music Customizer",
   "LEVEL/SHOW_HITBOXES_ON_DEATH/HACK_SHOW_HITBOXES_ON_DEATH/TIP": "Visualizes level hitboxes, only on death",

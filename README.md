@@ -24,14 +24,21 @@ Titles for hacks and options should be kept as short as possible so that they fi
 
 Languages with similar dialect can use a seperate language as a base, for example [en-US.json](/langs/en-US.json)'s base is [en-GB.json](/langs/en-GB.json). If a language has a base, it is marked at the top of its JSON file under the `__BASE__` key. Please use this to reduce redundant translations and only define a translation in a derived language if it is going to be different from its base's translation.
 
+## Basic Style Rules
+
+- Language used should be formal.
+- Titles should be capitalised.
+- Full-stops (periods) should be avoided at the end of sentences, other punctuation (?, !, ...) is fine.
+- Avoid trailing colons (":", ": "), spacing should not be dictated by the language JSON
+
 ## Reserved Tags
 
 Any tags ending in `/PRE` or `/SUF` are prefixes or suffixes to input boxes respectively. Prefixes should include spaces after their colons, for where user input begins. Parent tags do not need this space as this is the placeholder text, shown when the input box is empty.
 
 ```
 {
-  "EXAMPLE_INPUT": "Time (s):",
-  "EXAMPLE_INPUT/PRE": "Time: ",
+  "EXAMPLE_INPUT": "Time (s)",
+  "EXAMPLE_INPUT/PRE": "Time",
   "EXAMPLE_INPUT/SUF": "s"
 }
 ```
