@@ -434,7 +434,7 @@
   "SPEEDHACK/HACK_SPEEDHACK_CLASSIC/HACK_SPEEDHACK/TIP": "Disminuye la frecuencia de ticks del juego en lugar de multiplicar el tiempo entre fotogramas",
   "DISPLAY": "Pantalla",
   "DISPLAY/HACK_FRAME_EXTRAPOLATION": "Extrapolación de fotogramas",
-  "DISPLAY/HACK_FRAME_EXTRAPOLATION/TIP": "Extrapola los fotogramas para permitir actualizaciones visuales por encima de la 240fps, permitiendo mayor fluidez",
+  "DISPLAY/HACK_FRAME_EXTRAPOLATION/TIP": "Extrapola los fotogramas para permitir actualizaciones visuales por encima de los 240fps, permitiendo mayor fluidez",
   "DISPLAY/FPS/SPINNER": "FPS",
   "DISPLAY/FPS/SPINNER/SUF": "FPS",
   "DISPLAY/FPS/HACK_FPS": "Aplicar",
