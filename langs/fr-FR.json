@@ -10,7 +10,7 @@
   "NX/PICKER/INPUT": "Nom de fichier...",
   "ERROR": "Erreur",
   "ERROR/DISMISS": "Rejeter",
-  "ERROR/HACKPRO/CONFLICTING_RULESET": "",
+  "ERROR/HACKPRO/CONFLICTING_RULESET": "Conflits entre les ensembles de règles et les ensembles de règles activés",
   "ERROR/REPLAY/EMPTY_FILENAME": "Entrer le nom d'un fichier",
   "ERROR/REPLAY/FILE_NOT_FOUND": "Fichier non trouvé",
   "ERROR/REPLAY/NO_INPUTS": "La macro actuelle ne contient aucune entrée, impossible de continuer",
