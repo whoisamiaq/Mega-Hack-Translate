@@ -454,7 +454,7 @@
   "SPEEDHACK/HACK_SPEEDHACK_AUDIO": "스피드핵 오디오",
   "SPEEDHACK/HACK_SPEEDHACK_AUDIO/TIP": "오디오 속도를 스피드핵과 일치시킵니다.",
   "SPEEDHACK/HACK_SPEEDHACK_CLASSIC": "클래식 모드",
-  "SPEEDHACK/HACK_SPEEDHACK_CLASSIC/HACK_SPEEDHACK/TIP": "Cheat Engine의 speedhack과 유사하게 시스템 시게를 늦춰 게임 속도를 늦춥니다.",
+  "SPEEDHACK/HACK_SPEEDHACK_CLASSIC/HACK_SPEEDHACK/TIP": "Cheat Engine의 speedhack과 유사하게 시스템 시계를 늦춰 게임 속도를 늦춥니다.",
   "DISPLAY": "표시",
   "DISPLAY/HACK_FRAME_EXTRAPOLATION": "프레임 외삽",
   "DISPLAY/HACK_FRAME_EXTRAPOLATION/TIP": "표준 240fps 이상의 시각적 업데이트를 허용하기 위해 프레임을 외삽합니다.",
