@@ -22,7 +22,7 @@
   "MESSAGE": "메시지",
   "MESSAGE/OK": "확인",
   "MESSAGE/CANCEL": "취소",
-  "MESSAGE/YES": "예",
+  "MESSAGE/YES": "네",
   "MESSAGE/NO": "아니요",
   "MESSAGE/HOME/CONFIRM_LOGOUT": "Mega Hack에서 로그아웃하시겠습니까?",
   "MESSAGE/DISPLAY/FULLSCREEN_STOPPED": "전체 화면으로 전환하기 전에 플레이 레이어/에디터를 종료해 주세요.",
